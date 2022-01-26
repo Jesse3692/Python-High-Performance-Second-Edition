@@ -1,0 +1,5 @@
+matplotlib
+pytest
+pytest-benchmark
+pyprof2calltree
+joblib
